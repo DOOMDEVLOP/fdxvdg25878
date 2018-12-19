@@ -42,12 +42,6 @@ bot.on("message", function(message) {
             .addField("Question", tte)
             .addField("Réponse", reponse)
         message.channel.sendEmbed(bembed)    
-     
-}})
-
-bot.on("message", function(message) {
-    if(message.content.startsWith(prefix)) return;
-    switch (args[0].toLowerCase()) {
         case "pussy":
         try{
             get('https://www.sex.com/gifs/pussy').then(res=> {
