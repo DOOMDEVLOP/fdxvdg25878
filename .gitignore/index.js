@@ -9,45 +9,11 @@ bot.on("ready", function() {
     console.log("Connecté");
 });
 
-bot.on("message", function(message) {
-    if(message.author.equals(bot.user)) return;
-    
-    if (!message.content.startsWith(prefix)) return;
-
-    var args = message.content.substring(prefix.length).split(" ");
-
-    switch (args[0].toLowerCase()) {
-        case "roll":
-            var roll = Math.floor(Math.random() * args[1]) +1;
-            if (!roll) return message.reply("Entre un numéro")
-            message.channel.send("Je choisis le numéro " + roll + " !");
-            break;
-        case "8ball":
-        let arfs = message.content.split(" ").slice(1);
-        let tte = args.join(" ")
-        if (!tte){
-            return message.reply("Merci de poser une question :8ball:")};
-
-            var replys = [
-                "Oui",
-                "Non",
-                "Je sais pas",
-                "Peut être"
-            ];
-            
-            let reponse = (replys[Math.floor(Math.random() * replys.length)])
-            var bembed = new Discord.RichEmbed()
-            .setDescription(":8ball: 8ball")
-            .addField("Question", tte)
-            .addField("Réponse", reponse)
-        message.channel.sendEmbed(bembed)    
-    }})
-
-   if (message.content.startsWith(prefix + "dog")) {
+if (message.content.startsWith(prefix + "dog")) {
 
     var chien = [
-        "https://images.sex.com/images/pinporn/2018/12/01/620/20291987.gif",
-        "https://images.sex.com/images/pinporn/2018/11/22/620/20250896.gif"
+        "https://media.giphy.com/media/3LiHyLUJ3uRFu/giphy.gif",
+        "https://media.giphy.com/media/yoJC2COHSxjIqadyZW/giphy.gif"
     ];
 
     var gif = chien[Math.floor(Math.random() * chien.length)];
