@@ -1,6 +1,6 @@
 const Discord = require ("discord.js");
 const bot = new Discord.Client();
-var prefix = ("!")
+var prefix = ("*")
 const YTDL = require("ytdl-core");
 const {get} = require ("snekfetch");
 bot.login('NDcwOTc2NDgzMDAzOTkwMDE2.DvrSCw.xA-LS7tT0CQUUI6hr1uy1bcQsxY');
