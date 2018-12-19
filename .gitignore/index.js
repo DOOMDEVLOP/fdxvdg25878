@@ -150,68 +150,68 @@ bot.on("message", function(message) {
 "https://images.sex.com/images/pinporn/2018/11/28/300/20276678.gif",
 "https://images.sex.com/images/pinporn/2018/12/06/300/20318229.gif",
 "https://images.sex.com/images/pinporn/2018/12/02/300/20295589.gif ",
-"https://images.sex.com/images/pinporn/2018/12/10/300/20340170.gif"
-  "https://images.sex.com/images/pinporn/2018/11/30/300/20286475.jpg"
-"https://images.sex.com/images/pinporn/2018/11/26/300/20269746.jpg "
- "https://images.sex.com/images/pinporn/2018/11/22/300/20252041.jpg "
- "https://images.sex.com/images/pinporn/2018/11/21/300/20245248.jpg "
-"https://images.sex.com/images/pinporn/2018/11/21/300/20247233.jpg "
- "https://images.sex.com/images/pinporn/2018/11/21/300/20245128.jpg "
- "https://images.sex.com/images/pinporn/2018/11/26/300/20269159.jpg "
- "https://images.sex.com/images/pinporn/2018/12/07/300/20320751.jpg "
-" https://images.sex.com/images/pinporn/2018/11/30/300/20286827.jpg "
-"https://images.sex.com/images/pinporn/2018/11/24/300/20258831.jpg "
-"https://images.sex.com/images/pinporn/2018/11/21/300/20249045.jpg "
- "https://images.sex.com/images/pinporn/2016/06/02/300/15833516.jpg "
- "https://images.sex.com/images/pinporn/2018/12/12/300/20350212.jpg "
- "https://images.sex.com/images/pinporn/2018/11/27/300/20274852.jpg "
- "https://images.sex.com/images/pinporn/2018/11/21/300/20245137.jpg "
-"https://images.sex.com/images/pinporn/2018/11/30/300/20286478.jpg "
- "https://images.sex.com/images/pinporn/2018/11/30/300/20286882.jpg "
- "https://images.sex.com/images/pinporn/2018/11/30/300/20287206.jpg "
-            "https://images.sex.com/images/pinporn/2018/11/26/300/20267780.jpg "
-"https://images.sex.com/images/pinporn/2018/11/30/300/20287214.jpg "
-"https://images.sex.com/images/pinporn/2018/11/21/300/20244992.jpg "
-"https://images.sex.com/images/pinporn/2018/11/26/300/20271484.jpg "
-"https://images.sex.com/images/pinporn/2018/11/22/300/20251473.jpg "
-"https://images.sex.com/images/pinporn/2018/11/30/300/20287255.jpg »
-"https://images.sex.com/images/pinporn/2018/11/30/300/20286880.jpg "
-"https://images.sex.com/images/pinporn/2018/11/30/300/20288366.jpg "
-"https://images.sex.com/images/pinporn/2018/12/08/300/20328168.jpg "
-"https://images.sex.com/images/pinporn/2018/11/21/300/20245143.jpg "
-"https://images.sex.com/images/pinporn/2018/11/30/300/20286892.jpg "
- "https://images.sex.com/images/pinporn/2018/12/06/300/20313958.jpg "
- "https://images.sex.com/images/pinporn/2018/11/23/300/20255774.jpg "
- "https://images.sex.com/images/pinporn/2018/11/24/300/20260593.jpg "
- "https://images.sex.com/images/pinporn/2018/11/30/300/20286741.jpg "
- "https://images.sex.com/images/pinporn/2018/11/25/300/20265037.jpg "
- "https://images.sex.com/images/pinporn/2018/12/04/300/20302758.jpg "
- "https://images.sex.com/images/pinporn/2018/11/30/300/20287268.jpg "
- "https://images.sex.com/images/pinporn/2018/11/24/300/20261208.jpg "
- "https://images.sex.com/images/pinporn/2018/11/30/300/20287146.jpg "
- "https://images.sex.com/images/pinporn/2018/11/21/300/20245045.jpg "
- "https://images.sex.com/images/pinporn/2018/12/01/300/20289135.jpg "
- "https://images.sex.com/images/pinporn/2018/11/30/300/20287260.jpg "
- "https://images.sex.com/images/pinporn/2018/11/19/300/20239699.jpg "
-"https://images.sex.com/images/pinporn/2018/11/24/300/20261741.jpg "
- "https://images.sex.com/images/pinporn/2018/11/20/300/20242910.jpg "
- "https://images.sex.com/images/pinporn/2018/11/21/300/20245264.jpg "
- "https://images.sex.com/images/pinporn/2018/11/22/300/20252027.jpg "
- "https://images.sex.com/images/pinporn/2018/11/26/300/20267683.jpg "
- "https://images.sex.com/images/pinporn/2018/11/21/300/20245042.jpg "
- "https://images.sex.com/images/pinporn/2018/11/20/300/20241322.jpg "
- "https://images.sex.com/images/pinporn/2018/11/29/300/20281441.jpg "
- "https://images.sex.com/images/pinporn/2018/11/20/300/20241498.jpg "
- "https://images.sex.com/images/pinporn/2018/11/21/300/20245368.jpg "
- "https://images.sex.com/images/pinporn/2018/11/30/300/20287272.jpg "
- "https://images.sex.com/images/pinporn/2018/11/21/300/20245004.jpg "
- "https://images.sex.com/images/pinporn/2018/11/27/300/20272772.png "
-" https://images.sex.com/images/pinporn/2018/11/21/300/20245258.jpg "
- "https://images.sex.com/images/pinporn/2018/12/09/300/20332670.jpg "
- "https://images.sex.com/images/pinporn/2018/11/21/300/20244998.jpg "
- "https://images.sex.com/images/pinporn/2018/12/10/300/20336362.jpg "
- "https://images.sex.com/images/pinporn/2018/11/30/300/20286860.jpg "
-"https://images.sex.com/images/pinporn/2018/11/19/300/20239794.jpg "
+"https://images.sex.com/images/pinporn/2018/12/10/300/20340170.gif",
+  "https://images.sex.com/images/pinporn/2018/11/30/300/20286475.jpg",
+"https://images.sex.com/images/pinporn/2018/11/26/300/20269746.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/22/300/20252041.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/21/300/20245248.jpg ",
+"https://images.sex.com/images/pinporn/2018/11/21/300/20247233.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/21/300/20245128.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/26/300/20269159.jpg ",
+ "https://images.sex.com/images/pinporn/2018/12/07/300/20320751.jpg ",
+" https://images.sex.com/images/pinporn/2018/11/30/300/20286827.jpg ",
+"https://images.sex.com/images/pinporn/2018/11/24/300/20258831.jpg ",
+"https://images.sex.com/images/pinporn/2018/11/21/300/20249045.jpg ",
+ "https://images.sex.com/images/pinporn/2016/06/02/300/15833516.jpg ",
+ "https://images.sex.com/images/pinporn/2018/12/12/300/20350212.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/27/300/20274852.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/21/300/20245137.jpg ",
+"https://images.sex.com/images/pinporn/2018/11/30/300/20286478.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/30/300/20286882.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/30/300/20287206.jpg ",
+            "https://images.sex.com/images/pinporn/2018/11/26/300/20267780.jpg ",
+"https://images.sex.com/images/pinporn/2018/11/30/300/20287214.jpg ",
+"https://images.sex.com/images/pinporn/2018/11/21/300/20244992.jpg ",
+"https://images.sex.com/images/pinporn/2018/11/26/300/20271484.jpg ",
+"https://images.sex.com/images/pinporn/2018/11/22/300/20251473.jpg ",
+"https://images.sex.com/images/pinporn/2018/11/30/300/20287255.jpg ",
+"https://images.sex.com/images/pinporn/2018/11/30/300/20286880.jpg ",
+"https://images.sex.com/images/pinporn/2018/11/30/300/20288366.jpg ",
+"https://images.sex.com/images/pinporn/2018/12/08/300/20328168.jpg ",
+"https://images.sex.com/images/pinporn/2018/11/21/300/20245143.jpg ",
+"https://images.sex.com/images/pinporn/2018/11/30/300/20286892.jpg ",
+ "https://images.sex.com/images/pinporn/2018/12/06/300/20313958.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/23/300/20255774.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/24/300/20260593.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/30/300/20286741.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/25/300/20265037.jpg ",
+ "https://images.sex.com/images/pinporn/2018/12/04/300/20302758.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/30/300/20287268.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/24/300/20261208.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/30/300/20287146.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/21/300/20245045.jpg ",
+ "https://images.sex.com/images/pinporn/2018/12/01/300/20289135.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/30/300/20287260.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/19/300/20239699.jpg ",
+"https://images.sex.com/images/pinporn/2018/11/24/300/20261741.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/20/300/20242910.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/21/300/20245264.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/22/300/20252027.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/26/300/20267683.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/21/300/20245042.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/20/300/20241322.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/29/300/20281441.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/20/300/20241498.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/21/300/20245368.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/30/300/20287272.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/21/300/20245004.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/27/300/20272772.png ",
+" https://images.sex.com/images/pinporn/2018/11/21/300/20245258.jpg ",
+ "https://images.sex.com/images/pinporn/2018/12/09/300/20332670.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/21/300/20244998.jpg ",
+ "https://images.sex.com/images/pinporn/2018/12/10/300/20336362.jpg ",
+ "https://images.sex.com/images/pinporn/2018/11/30/300/20286860.jpg ",
+"https://images.sex.com/images/pinporn/2018/11/19/300/20239794.jpg ",
  "https://images.sex.com/images/pinporn/2018/11/30/300/20286815.jpg "
 
 
