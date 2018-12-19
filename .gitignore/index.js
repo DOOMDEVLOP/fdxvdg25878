@@ -42,14 +42,12 @@ bot.on("message", function(message) {
             .addField("Question", tte)
             .addField("Réponse", reponse)
         message.channel.sendEmbed(bembed)    
-    }})
-
-if (message.content.startsWith(prefix + "pussy")) {
+   if (message.content.startsWith(prefix + "pussy")) {
 
     var pussy = [
                
-        https://images.sex.com/images/pinporn/2018/12/01/620/20291987.gif
-        https://images.sex.com/images/pinporn/2018/11/22/620/20250896.gif
+        "https://images.sex.com/images/pinporn/2018/12/01/620/20291987.gif"
+        "https://images.sex.com/images/pinporn/2018/11/22/620/20250896.gif"
 
     ];
 
@@ -63,3 +61,4 @@ if (message.content.startsWith(prefix + "pussy")) {
     .setFooter('Requested by {user}')
     message.channel.send(pussy_embed);
 }
+    }})
