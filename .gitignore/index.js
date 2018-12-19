@@ -159,7 +159,7 @@ bot.on("message", function(message) {
         var gif = pussy[Math.floor(Math.random() * pussy.length)];
     
         var pussy_embed = new Discord.RichEmbed()
-        .setColor('RANDOM')
+        .setColor('c000ff')
         .setTitle('<:ass:524262717595582464>')
         .setImage(gif)
         .setFooter('Send from INFINITY')
