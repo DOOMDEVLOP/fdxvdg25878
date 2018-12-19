@@ -1,6 +1,6 @@
 const Discord = require ("discord.js");
 const bot = new Discord.Client();
-var prefix = ("x-")
+var prefix = ("*")
 const YTDL = require("ytdl-core");
 const {get} = require ("snekfetch");
 bot.login(process.env.TOKEN);
@@ -48,7 +48,7 @@ bot.on("message", function(message) {
 
     var pussy = [
                
-        "https://images.sex.com/images/pinporn/2018/12/01/620/20291987.gif"
+        "https://images.sex.com/images/pinporn/2018/12/01/620/20291987.gif",
         "https://images.sex.com/images/pinporn/2018/11/22/620/20250896.gif"
 
     ];
