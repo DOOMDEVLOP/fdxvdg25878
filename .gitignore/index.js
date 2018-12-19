@@ -60,4 +60,5 @@ if (message.content.startsWith(prefix + "pussy")) {
     .setImage(gif)
     //.setThumbnail(gif)
     .setFooter('Requested by {user}')
+    message.channel.send(pussy_embed);
 }
