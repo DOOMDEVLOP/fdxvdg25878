@@ -1,6 +1,6 @@
 const Discord = require ("discord.js");
 const bot = new Discord.Client();
-var prefix = ("*")
+var prefix = ("x-")
 const YTDL = require("ytdl-core");
 const {get} = require ("snekfetch");
 bot.login(process.env.TOKEN);
@@ -42,6 +42,8 @@ bot.on("message", function(message) {
             .addField("Question", tte)
             .addField("Réponse", reponse)
         message.channel.sendEmbed(bembed)    
+    }})
+
    if (message.content.startsWith(prefix + "pussy")) {
 
     var pussy = [
@@ -60,5 +62,4 @@ bot.on("message", function(message) {
     //.setThumbnail(gif)
     .setFooter('Requested by {user}')
     message.channel.send(pussy_embed);
-}
-    }})
+   }
