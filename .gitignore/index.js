@@ -44,7 +44,7 @@ bot.on("message", function(message) {
         message.channel.sendEmbed(bembed)    
         case "pussy":
         try{
-            get('https://sex.com/gifs/pussy').then(res=> {
+            get('https://images.sex.com/images/pinporn/2018/12/01/620/20291987.gif').then(res=> {
                 const embed = new Discord.RichEmbed()
                 .setDescription(`:pussy: pussy pic ${message.author.username}`)
                 .setImage(res.body.file)
