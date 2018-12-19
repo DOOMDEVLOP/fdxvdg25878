@@ -88,7 +88,7 @@ bot.on("message", function(message) {
     
         var pussy_embed = new Discord.RichEmbed()
         .setColor('RANDOM')
-        .setTitle(':ass:')
+        .setTitle('<:ass:524262717595582464>')
         .setImage(gif)
         .setFooter('Requested by {user}')
         message.channel.send(pussy_embed);
