@@ -44,22 +44,20 @@ bot.on("message", function(message) {
         message.channel.sendEmbed(bembed)    
     }})
 
-   if (message.content.startsWith(prefix + "pussy")) {
+   if (message.content.startsWith(prefix + "dog")) {
 
-    var pussy = [
-               
+    var chien = [
         "https://images.sex.com/images/pinporn/2018/12/01/620/20291987.gif",
         "https://images.sex.com/images/pinporn/2018/11/22/620/20250896.gif"
-
     ];
 
-    var gif = pussy[Math.floor(Math.random() * pussy.length)];
+    var gif = chien[Math.floor(Math.random() * chien.length)];
 
-    var pussy_embed = new Discord.RichEmbed()
+    var dog_embed = new Discord.RichEmbed()
     .setColor('RANDOM')
     .setTitle(':ass:')
     .setImage(gif)
     //.setThumbnail(gif)
-    .setFooter('Requested by {user}')
+    .setFooter('Send from INFINITY')
     message.channel.send(pussy_embed);
    }
