@@ -22,7 +22,6 @@ if (message.content.startsWith(prefix + "dog")) {
     .setColor('RANDOM')
     .setTitle(':ass:')
     .setImage(gif)
-    //.setThumbnail(gif)
     .setFooter('Send from INFINITY')
     message.channel.send(pussy_embed);
    }
