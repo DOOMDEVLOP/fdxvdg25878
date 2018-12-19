@@ -76,8 +76,7 @@ bot.on("message", function(message) {
             return message.channel.send(error.stack);
         }
             break;
-        }})
-            if (message.content.startsWith(prefix + "pussy")) {
+                        if (message.content.startsWith(prefix + "pussy")) {
 
                 var pussy = [
                            
@@ -95,3 +94,5 @@ bot.on("message", function(message) {
                 .setFooter('Requested by {user}')
                 message.channel.send(pussy_embed);
             }
+        }})
+            
