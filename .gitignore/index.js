@@ -90,7 +90,7 @@ bot.on("message", function(message) {
         .setColor('RANDOM')
         .setTitle('<:ass:524262717595582464>')
         .setImage(gif)
-        .setFooter('Requested by {user}')
+        .setFooter('Send from INFINITY')
         message.channel.send(pussy_embed);
     }
 })
