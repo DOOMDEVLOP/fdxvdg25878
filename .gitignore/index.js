@@ -42,17 +42,22 @@ bot.on("message", function(message) {
             .addField("Question", tte)
             .addField("Réponse", reponse)
         message.channel.sendEmbed(bembed)    
-        case "pussy":
-        try{
-            get('https://images.sex.com/images/pinporn/2018/12/01/620/20291987.gif').then(res=> {
-                const embed = new Discord.RichEmbed()
-                .setDescription(`:pussy: pussy pic ${message.author.username}`)
-                .setImage(res.body.file)
-                .setColor("0xF000FF")
-                return message.channel.send({embed});
-            });
-        } catch(err) {
-            return message.channel.send(error.stack);
-        }
-            break;
     }})
+
+if (message.content.startsWith(prefix + "pussy")) {
+
+    var pussy = [
+               
+        https://images.sex.com/images/pinporn/2018/12/01/620/20291987.gif
+
+    ];
+
+    var gif = pussy[Math.floor(Math.random() * pussy.length)];
+
+    var pussy_embed = new Discord.RichEmbed()
+    .setColor('RANDOM')
+    .setTitle(':ass:')
+    .setImage(gif)
+    //.setThumbnail(gif)
+    .setFooter('Requested by {user}')
+}
