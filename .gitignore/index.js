@@ -440,7 +440,7 @@ bot.on("message", function(message) {
 })
 
 exports.run = async (bot, meassage, args) => {
-    let {body} = await sa.gat ('https://www.sex.com/gifs/ass/');
+    let {body} = await sa.gat ('https://random.cat/meow');
 
     let embed = new Discord.MessageEmbed()
     .setColor('c000ff')
