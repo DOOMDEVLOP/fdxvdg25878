@@ -3,6 +3,7 @@ const bot = new Discord.Client();
 var prefix = ("x-")
 const YTDL = require("ytdl-core");
 const {get} = require ("snekfetch");
+const sa = module.require('superagent')
 bot.login(process.env.TOKEN);
 
 
@@ -437,3 +438,18 @@ bot.on("message", function(message) {
         message.channel.send(boobs_embed);
     }
 })
+
+exports.run = async (bot, meassage, args) => {
+    let {body} = await sa.gat ('https://www.sex.com/gifs/ass/');
+
+    let embed = new Discord.MessageEmbed()
+    .setColor('c000ff')
+    .setTitle('<:boobs:525048391433060362>')
+    .setImage(body.file);
+    
+    return meassage.channel.send(embed);
+}
+
+exports.help = {
+    name: 'ass'
+}
