@@ -3,7 +3,6 @@ const bot = new Discord.Client();
 var prefix = ("x-")
 const YTDL = require("ytdl-core");
 const {get} = require ("snekfetch");
-const sa = module.require('superagent')
 bot.login(process.env.TOKEN);
 
 
