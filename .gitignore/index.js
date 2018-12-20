@@ -439,17 +439,3 @@ bot.on("message", function(message) {
     }
 })
 
-exports.run = async (bot, meassage, args) => {
-    let {body} = await sa.gat ('https://random.cat/meow');
-
-    let embed = new Discord.MessageEmbed()
-    .setColor('c000ff')
-    .setTitle('<:boobs:525048391433060362>')
-    .setImage(body.file);
-    
-    return meassage.channel.send(embed);
-}
-
-exports.help = {
-    name: 'ass'
-}
