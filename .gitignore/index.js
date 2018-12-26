@@ -38,6 +38,8 @@ Ask SALM#6257 (GOD RANK ON DISCORD SERVER) anything if you need help or if you w
         message.channel.send(`
         __***SHOP : ***__
 
+***ALL ACCOUNTS ARE LIFETIME WARRANTY IF YOU GET BANNED CONTACT ME :***
+
 __**PORN ACCOUNT : **__
 __BRAZZERS__ 					 BTC -► 15$
 __BANGBROS__ 					 BTC -► 20$
