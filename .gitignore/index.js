@@ -9,8 +9,7 @@ const client = bot
 
 bot.on("ready", function() {
     console.log("Connecté");
-    bot.user.setGame("PORN !")
-    bot.user.setActivity({"WATCHING"});    
+    bot.user.setGame("WATCHING PORN !")
 });
 
 
